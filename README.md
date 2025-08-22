@@ -1,4 +1,6 @@
 # LogisticsShippingRates
+This shipping cost calculator receives the input weight to be shipped and calculates the total cost of shipping.
+
 Please consider the below factors while contributing
 
 Code Style:
