@@ -11,3 +11,5 @@ I sincerely thank the following faculty for their valuable contributions to the 
 - **Rav Ahuja**
 
 Their guidance and support made this learning experience enriching and insightful.
+
+[View certificate] 
