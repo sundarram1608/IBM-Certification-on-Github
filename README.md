@@ -12,4 +12,4 @@ I sincerely thank the following faculty for their valuable contributions to the 
 
 Their guidance and support made this learning experience enriching and insightful.
 
-[View certificate] (certificate_github.pdf)
+[View certificate](certificate_github.pdf)
