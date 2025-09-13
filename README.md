@@ -12,6 +12,6 @@ I sincerely thank the following faculty for their valuable contributions to the 
 
 Their guidance and support made this learning experience enriching and insightful.
 
-You could e-verify the certificate by clicking [here]([https://www.google.com](https://coursera.org/verify/3U8U3GYQIM2L)
+You could e-verify the certificate by clicking [here](https://coursera.org/verify/3U8U3GYQIM2L)
 
 [View certificate](certificate_github.pdf)
